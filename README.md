@@ -3,7 +3,7 @@
 1.	Основы Java 
 2.	Git https://githowto.com/ru
 3.	Java Core
-4.	Шаблоны проектирования
+4.	Шаблоны проектирования https://github.com/dmshagaliev/Java_doc/blob/8e6a884a9fc65b540665fcb32d4bc0160cf6ac85/Head_First_pattrens.zip
 5.	Многопоточное и функциональное программирование https://github.com/dmshagaliev/Java_doc/blob/f9a91e4e3382d8bea009a31dd8dc354cb86e782d/Java%20concurrency.pdf
 6.	Web, Spring & Spring MVC, Spring Boot https://github.com/dmshagaliev/Java_doc/blob/main/spring%20in%20action%205.docx
 7.	ORM, Hibernate https://github.com/dmshagaliev/Java_doc/blob/7efa9082294be1fe9e9fcc0e7617a199c3c7879e/hibernate.pdf
