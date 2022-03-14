@@ -8,5 +8,5 @@
 7.	ORM, Hibernate https://github.com/dmshagaliev/Java_doc/blob/7efa9082294be1fe9e9fcc0e7617a199c3c7879e/hibernate.pdf
 8.	Spring Cloud https://github.com/dmshagaliev/Java_doc/blob/9f0f0f7519c3451463042f486a5f0038b5d0b2ca/Spring%20Cloud.pdf
 
-Здесь всегда актуальная инфа для изчения
+Типа дорожной карты для изучения:
 https://ru.stackoverflow.com/questions/416634/Книги-и-учебные-ресурсы-по-java
