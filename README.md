@@ -10,7 +10,7 @@
 8.	Spring Cloud https://github.com/dmshagaliev/Java_doc/blob/9f0f0f7519c3451463042f486a5f0038b5d0b2ca/Spring%20Cloud.pdf
 9.  Docker https://vladilen.notion.site/Docker-2021-a72201ec8573461c8a2e62e2fcf33aa3
 
-Пркатика
+Практика
 https://github.com/netology-code/jd-homeworks
 
 видео со встреч петербургской Java User Group
